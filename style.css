@@ -1,5 +1,6 @@
 *{
-    margin: 15px;
+    padding: 0.5vh;
+    margin: 0px;
     box-sizing: border-box;
 }
 
@@ -75,8 +76,6 @@ a{
     }
 }
 
-footer{width: 100%;
-    background-color: rgb(61, 61, 61);
-    display: flex;
-    align-items: center;
+#contato{
+    text-align: center;
 }
